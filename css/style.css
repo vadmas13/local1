@@ -254,6 +254,7 @@ p.lol{
 }
 #must_1{
 	width:240px
+<<<<<<< HEAD
 }
 .float_class{
 	display:inline-block;
@@ -263,4 +264,6 @@ p.lol{
 	width:100%;
 	height: auto;
 	padding-bottom: 79px;
+=======
+>>>>>>> 05b005f58f0195c0cbc34e5f459e5d0d304025ff
 }

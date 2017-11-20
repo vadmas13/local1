@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @media (max-width:960px) and (min-width: 300px){
+=======
+@media(max-width:600px){
+>>>>>>> 05b005f58f0195c0cbc34e5f459e5d0d304025ff
 body{
 	font-family: "MyriadProRegular";
 	font-size: 10px;
@@ -7,6 +11,10 @@ body{
 	padding:25px 0 50px;
 	width: 595px;
 	height: auto;
+<<<<<<< HEAD
+=======
+	margin:0 auto;
+>>>>>>> 05b005f58f0195c0cbc34e5f459e5d0d304025ff
 }
 .col-block-4{
     width:40%;
@@ -17,8 +25,11 @@ body{
 	width:53%;
 	padding:3px 10px;
 	height: auto;
+<<<<<<< HEAD
 	display: inline-block;
 	float: left;
+=======
+>>>>>>> 05b005f58f0195c0cbc34e5f459e5d0d304025ff
 }
 .round_block{
 	width:97px;
@@ -259,6 +270,7 @@ p.lol{
 #must_1{
 	width:120px
 }
+<<<<<<< HEAD
 .right_lol{
 	padding-right: 26px;
 }
@@ -321,3 +333,6 @@ p.lol{
 }
 }
 }
+=======
+}
+>>>>>>> 05b005f58f0195c0cbc34e5f459e5d0d304025ff
