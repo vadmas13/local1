@@ -1,0 +1,323 @@
+@media (max-width:960px) and (min-width: 300px){
+body{
+	font-family: "MyriadProRegular";
+	font-size: 10px;
+}
+.conatiner-block{
+	padding:25px 0 50px;
+	width: 595px;
+	height: auto;
+}
+.col-block-4{
+    width:40%;
+    padding:10px 10px;
+    height: auto;
+}
+.col-block-6{
+	width:53%;
+	padding:3px 10px;
+	height: auto;
+	display: inline-block;
+	float: left;
+}
+.round_block{
+	width:97px;
+	height: 97px;
+    border-radius: 48.5px;
+    background-color: #3D6CB0;
+    margin:0 auto;
+}
+.round_line{
+	width:111px;
+	height: 104px;
+	border-radius: 105.5px;
+	border:1px solid #3D6CB0;
+	margin:0 auto;
+	padding-top: 7px;
+	
+}
+.name_here{
+	margin:17px 0 0;
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 21.5px;
+}
+.surname{
+    text-align: center;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-family: "MyriadProBold";
+	margin: 0px; 
+	line-height: 15px;
+	padding-top: 8px;
+}
+.three_text{
+	font-size: 12px;
+}
+.block_left{
+	margin-top:40px;
+}
+.img_profile{
+	height: auto;
+    max-width: 100%;
+}
+.profile{
+	text-transform: uppercase;
+	font-family: "MyriadProBold";
+	font-size: 20px;
+	color:#3D6CB0;
+	padding-left: 10px;
+}
+.lol{
+	display: inline-block;
+	float: left;
+}
+p.lol{
+	margin:5px 0 0 5px;
+}
+.lal{
+    margin:10px 0 0 5px;
+}
+.line_block{
+	width:160px;
+	height: 5px;
+	background-color: #3D6CB0;
+	margin-top:16px;
+	margin-left: 8px;
+}
+.text_article{
+	font-size: 7.5px;
+	padding-top:45px;
+	padding-left: 10px;
+	padding-right: 27.5px;
+}
+.bold_family{
+	font-family: "MyriadProBold";
+}
+.contacts_block{
+	margin-top:24px;
+}
+.first_col{
+	color: #3D6CB0;
+}
+.block_tables{
+	padding-top:54.5px;
+    padding-left:10px;
+}
+.sec_col{
+	padding-left: 14px;
+}
+.table_contacts td{
+	padding-bottom: 19px;
+}
+.skills_block{
+	margin-top:7px;
+}
+.skills_types{
+	text-align: center;
+	font-size: 12px;
+	line-height: 8.5px;
+}
+.skills_types p{
+	margin: 0;
+}
+.collect_balls{
+	display: inline-block;
+}
+.balls{
+	float: left;
+    width:8px;
+    height: 8px;
+    background-color: #3D6CB0;
+    border-radius: 4px;
+    margin-left: 4px;
+    margin-top: 7px;
+}
+.balls_white{
+    background-color: #E6E6E6;
+}
+.CREATIVE_block{
+	padding-top:49px;
+}
+.team_block{
+	padding-top:14px;
+}
+.master_p{
+	font-size: 12px;
+	color: #3D6CB0;
+	margin:0;
+	padding-left: 11px;
+}
+.master_p span{
+	font-family: "MyriadProRegular";
+	color:#000;
+	padding-left:7px;
+	font-size: 12px;
+}
+.block_master{
+	padding-top:51px;
+}
+.round_black{
+	width:9px;
+	height: 9px;
+	border-radius: 4.5px;
+	background-color: #000;
+	margin-top:3px;
+}
+.p_second_name{
+	font-family: "MyriadProRegular";
+	color:#000;
+	font-size: 12px;
+	padding-top: 6px;
+	padding-left:20px;
+	margin-bottom: 0;
+}
+.text_second{
+	font-size: 7.5px;
+	padding-left: 20px;
+	padding-right: 7.5px;
+	margin-top:5px;
+}
+.non_padding{
+	padding:1px;
+}
+.experience_block{
+	margin-top:21px;
+}
+.color_text{
+	color:#000;
+}
+.padding_company{
+	padding-top:57px;
+}
+.software_block{
+	margin-top:27px;
+}
+.table_stata{
+	padding-top:49px;
+}
+.block_down{
+	width: 132px;
+	height: 10px;
+	background-color: #E6E6E6;
+	position: relative;
+}
+.block_own{
+	position: absolute;
+	height: 100%;
+	top:0;
+	left:0;
+	background-color: #3D6CB0;
+}
+.we_must{
+	font-size: 12px;
+	margin-top:0;
+	margin-bottom: 5px;
+}
+.table_stata td{
+	padding-bottom: 8px;
+	padding-right: 26px;
+}
+#skills{
+	width:92px
+}
+#profile{
+	width:80px;
+}
+#contact{
+	width:70px
+}
+#education{
+	width:149px
+}
+#experience{
+	width:149px
+}
+#software{
+	width:149px
+}
+.lolak{
+    width:35px;
+    height: 35px;
+}
+#must_6{
+	width:120px
+}
+#must_5{
+	width:75px
+}
+#must_4{
+	width:82px
+}
+#must_3{
+	width:93px
+}
+#must_2{
+    width:60px
+}
+#must_1{
+	width:120px
+}
+.right_lol{
+	padding-right: 26px;
+}
+.obram_block_ha{
+	width:100%;
+	height: auto;
+	padding-bottom: 40px;
+}
+@media (max-width:400px) and (min-width: 300px) {
+.table_stata{
+	width: 140px;
+	margin:0 auto;
+	margin-bottom: 30px;
+}
+.float_class{
+	padding-bottom: 10px;
+}
+.col-block-6{
+	width:80%;
+    display: block;
+    float: none;
+    margin:0 auto;
+    margin-top:20px;
+}
+.col-block-4{
+	width:80%;
+    display: block;
+    float: none;
+    margin:0 auto;
+}
+.conatiner-block{
+	padding:50px 0 100px;
+	width: 100%;
+	height: auto;
+	margin:0 auto;
+}
+.img_profile{
+	width:30px;
+	height: auto;
+}
+#education{
+	width:100px
+}
+#experience{
+	width:100px
+}
+#software{
+	width:100px
+}
+@media (max-width:341px){
+   #education{
+	width:55px
+}
+#experience{
+	width:55px
+}
+#software{
+	width:55px
+}
+}
+}
+}

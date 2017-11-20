@@ -17,6 +17,8 @@ body{
 	width:53%;
 	padding:6px 20px;
 	height: auto;
+	display: inline-block;
+	float: left;
 }
 .round_block{
 	width:194px;
@@ -193,6 +195,7 @@ p.lol{
 	margin-top:54px;
 }
 .table_stata{
+	width: inherit;
 	padding-top:98px;
 }
 .block_down{
@@ -213,7 +216,51 @@ p.lol{
 	margin-top:0;
 	margin-bottom: 10px;
 }
-.table_stata td{
-	padding-bottom: 16px;
+.right_lol{
 	padding-right: 52px;
+}
+#skills{
+	width:184px
+}
+#profile{
+	width:160px;
+}
+#contact{
+	width:140px
+}
+#education{
+	width:298px
+}
+#experience{
+	width:298px
+}
+#software{
+	width:298px
+}
+#must_6{
+	width:240px
+}
+#must_5{
+	width:150px
+}
+#must_4{
+	width:164px
+}
+#must_3{
+	width:186px
+}
+#must_2{
+    width:120px
+}
+#must_1{
+	width:240px
+}
+.float_class{
+	display:inline-block;
+	float: left;
+}
+.obram_block_ha{
+	width:100%;
+	height: auto;
+	padding-bottom: 79px;
 }
