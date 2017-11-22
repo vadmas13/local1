@@ -267,7 +267,82 @@ p.lol{
 	height: auto;
 	padding-bottom: 40px;
 }
-@media (max-width:600px) and (min-width: 300px) {
+@media (max-width:600px) and (min-width: 400px){
+body{
+	font-size: 13px;
+}
+.text_second {
+    font-size: 11px;
+ }
+.skills_types {
+    font-size: 13px;
+ }
+.line_block{
+	margin-top:19px;
+}
+.lolak{
+	padding-top:4px;
+}
+.profile{
+	font-size: 25px;
+}
+.table_stata{
+	width: 140px;
+	margin:0 auto;
+	margin-bottom: 30px;
+}
+.text_article {
+    font-size: 11px;
+ }
+.float_class{
+	padding-bottom: 10px;
+}
+.col-block-6{
+	width:73%;
+	min-width: 446px;
+    display: block;
+    float: none;
+    margin:0 auto;
+    margin-top:20px;
+}
+.col-block-4{
+	width:57%;
+	min-width: 352px;
+    display: block;
+    float: none;
+    margin:0 auto;
+}
+.conatiner-block{
+	padding:50px 0 100px;
+	width: 100%;
+	height: auto;
+	margin:0 auto;
+}
+.img_profile{
+	width:35px;
+	height: auto;
+}
+#education{
+	width:181px
+}
+#experience{
+	width:178px
+}
+#software{
+	width:189px
+}
+#profile{
+	width:170px;
+}
+#contact{
+	width: 125px;
+}
+#skills{
+	width: 150px;
+}
+}
+@media (max-width:400px) and (min-width: 300px){
+
 .table_stata{
 	width: 140px;
 	margin:0 auto;
@@ -277,7 +352,9 @@ p.lol{
 	padding-bottom: 10px;
 }
 .col-block-6{
-	width:80%;
+	width:321px;
+	padding-left:0;
+	padding-right: 0;
     display: block;
     float: none;
     margin:0 auto;
@@ -309,6 +386,12 @@ p.lol{
 	width:100px
 }
 @media (max-width:341px){
+.col-block-4{
+	width:271px;
+}
+.col-block-6 {
+    width: 100%;
+}
    #education{
 	width:55px
 }
@@ -320,4 +403,4 @@ p.lol{
 }
 }
 }
-}
+}}
