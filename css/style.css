@@ -17,6 +17,8 @@ body{
 	width:53%;
 	padding:6px 20px;
 	height: auto;
+	display: inline-block;
+	float: left;
 }
 .round_block{
 	width:194px;
@@ -193,6 +195,7 @@ p.lol{
 	margin-top:54px;
 }
 .table_stata{
+	width: inherit;
 	padding-top:98px;
 }
 .block_down{
@@ -213,8 +216,7 @@ p.lol{
 	margin-top:0;
 	margin-bottom: 10px;
 }
-.table_stata td{
-	padding-bottom: 16px;
+.right_lol{
 	padding-right: 52px;
 }
 #skills{
@@ -252,4 +254,13 @@ p.lol{
 }
 #must_1{
 	width:240px
+}
+.float_class{
+	display:inline-block;
+	float: left;
+}
+.obram_block_ha{
+	width:100%;
+	height: auto;
+	padding-bottom: 79px;
 }

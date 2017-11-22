@@ -1,4 +1,4 @@
-@media(max-width:600px){
+@media (max-width:960px) and (min-width: 300px){
 body{
 	font-family: "MyriadProRegular";
 	font-size: 10px;
@@ -7,7 +7,6 @@ body{
 	padding:25px 0 50px;
 	width: 595px;
 	height: auto;
-	margin:0 auto;
 }
 .col-block-4{
     width:40%;
@@ -18,6 +17,8 @@ body{
 	width:53%;
 	padding:3px 10px;
 	height: auto;
+	display: inline-block;
+	float: left;
 }
 .round_block{
 	width:97px;
@@ -257,5 +258,123 @@ p.lol{
 }
 #must_1{
 	width:120px
+}
+.right_lol{
+	padding-right: 26px;
+}
+.obram_block_ha{
+	width:100%;
+	height: auto;
+	padding-bottom: 40px;
+}
+@media (max-width:600px) and (min-width: 400px){
+.profile{
+	font-size: 25px;
+}
+.table_stata{
+	width: 140px;
+	margin:0 auto;
+	margin-bottom: 30px;
+}
+.text_article {
+    font-size: 11px;
+ }
+.float_class{
+	padding-bottom: 10px;
+}
+.col-block-6{
+	width:60%;
+    display: block;
+    float: none;
+    margin:0 auto;
+    margin-top:20px;
+}
+.col-block-4{
+	width:57%;
+	min-width: 352px;
+    display: block;
+    float: none;
+    margin:0 auto;
+}
+.conatiner-block{
+	padding:50px 0 100px;
+	width: 100%;
+	height: auto;
+	margin:0 auto;
+}
+.img_profile{
+	width:35px;
+	height: auto;
+}
+#education{
+	width:181px
+}
+#experience{
+	width:178px
+}
+#software{
+	width:189px
+}
+#profile{
+	width:125px;
+}
+#contact{
+	width: 125px;
+}
+#skills{
+	width: 150px;
+}
+@media (max-width:400px) and (min-width: 300px) {
+.table_stata{
+	width: 140px;
+	margin:0 auto;
+	margin-bottom: 30px;
+}
+.float_class{
+	padding-bottom: 10px;
+}
+.col-block-6{
+	width:80%;
+    display: block;
+    float: none;
+    margin:0 auto;
+    margin-top:20px;
+}
+.col-block-4{
+	width:80%;
+    display: block;
+    float: none;
+    margin:0 auto;
+}
+.conatiner-block{
+	padding:50px 0 100px;
+	width: 100%;
+	height: auto;
+	margin:0 auto;
+}
+.img_profile{
+	width:30px;
+	height: auto;
+}
+#education{
+	width:100px
+}
+#experience{
+	width:100px
+}
+#software{
+	width:100px
+}
+@media (max-width:341px){
+   #education{
+	width:55px
+}
+#experience{
+	width:55px
+}
+#software{
+	width:55px
+}
+}
 }
 }
