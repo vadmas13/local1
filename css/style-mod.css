@@ -267,6 +267,7 @@ p.lol{
 	height: auto;
 	padding-bottom: 40px;
 }
+<<<<<<< HEAD
 @media (max-width:600px) and (min-width: 400px){
 .profile{
 	font-size: 25px;
@@ -325,6 +326,9 @@ p.lol{
 	width: 150px;
 }
 @media (max-width:400px) and (min-width: 300px) {
+=======
+@media (max-width:600px) and (min-width: 300px) {
+>>>>>>> 46b88727e2b7ec62654882cf89d97903a6186647
 .table_stata{
 	width: 140px;
 	margin:0 auto;
