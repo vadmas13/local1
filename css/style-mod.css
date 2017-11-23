@@ -323,26 +323,25 @@ body{
 	height: auto;
 }
 #education{
-	width:181px
+	width:230px
 }
 #experience{
-	width:178px
+	width:230px
 }
 #software{
-	width:189px
+	width:247px	
 }
 #profile{
 	width:170px;
 }
 #contact{
-	width: 125px;
+	width: 160px;
 }
 #skills{
-	width: 150px;
+	width: 192px;
 }
 }
 @media (max-width:400px) and (min-width: 300px){
-
 .table_stata{
 	width: 140px;
 	margin:0 auto;
@@ -361,7 +360,7 @@ body{
     margin-top:20px;
 }
 .col-block-4{
-	width:80%;
+	width:238px;
     display: block;
     float: none;
     margin:0 auto;
@@ -377,13 +376,13 @@ body{
 	height: auto;
 }
 #education{
-	width:100px
+	width:155px
 }
 #experience{
-	width:100px
+	width:155px
 }
 #software{
-	width:100px
+	width:155px
 }
 @media (max-width:341px){
 .col-block-4{
